@@ -4,8 +4,8 @@
     --branco: rgb(0, 0, 0);
     --cor-de-fundo: #e6dada;
     --fundo-senha: #f2f8ff;
-    --fundo-texto: #12721f;
-    --borda: #f34a20;
+    --fundo-texto: #091d47;
+    --borda: #050505;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -131,11 +131,11 @@ label{
     background-color: #495717; 
 }
 .media{
-    background-color: #FAF408;
+    background-color: #fffc2f;
     width: 50%;
 }
 .forte{
-    background-color: #00FF85;
+    background-color: #c99119;
     width: 100%;
 }
 
